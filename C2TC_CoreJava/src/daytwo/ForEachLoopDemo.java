@@ -1,4 +1,4 @@
-package Day2;
+package daytwo;
 
 public class ForEachLoopDemo {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Day2;
+package daytwo;
 
 public class BreakDemo {
 
