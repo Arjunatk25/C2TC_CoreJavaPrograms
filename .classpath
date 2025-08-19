@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="C2TC_CoreJava/src"/>
+	<classpathentry excluding="C2TC_CoreJavaPrograms/C2TC_CoreJavaPrograms/|C2TC_CoreJavaPrograms/C2TC_CoreJava/src/" kind="src" path="C2TC_CoreJavaPrograms"/>
+	<classpathentry kind="src" path="C2TC_CoreJavaPrograms/C2TC_CoreJavaPrograms/C2TC_CoreJava/src"/>
+	<classpathentry kind="src" path="C2TC_CoreJavaPrograms/C2TC_CoreJavaPrograms/C2TC_CoreJavaPrograms"/>
+	<classpathentry kind="output" path="C2TC_CoreJava/bin"/>
+</classpath>
