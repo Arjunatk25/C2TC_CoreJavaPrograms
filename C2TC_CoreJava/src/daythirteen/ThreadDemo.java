@@ -1,5 +1,5 @@
 //Executor class for ChildThread
-package com.tnsif.daythirteen;
+package daythirteen;
 
 public class ThreadDemo {
 	public static void main(String[] args) {

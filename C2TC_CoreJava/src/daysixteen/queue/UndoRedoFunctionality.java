@@ -1,5 +1,5 @@
 //Program to demonstrate Undo/Redo Functionality using ArrayDeque
-package com.tnsif.daysixteen.queue;
+package daysixteen.queue;
 import java.util.ArrayDeque;
 import java.util.Deque;
 

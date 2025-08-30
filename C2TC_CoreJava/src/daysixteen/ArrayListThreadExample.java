@@ -1,5 +1,5 @@
 //Program to demonstrates ArrayList - Not Thread-Safe
-package com.tnsif.daysixteen;
+package daysixteen;
 
 import java.util.ArrayList;
 

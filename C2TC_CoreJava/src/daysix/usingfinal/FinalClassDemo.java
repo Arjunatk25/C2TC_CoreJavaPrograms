@@ -1,7 +1,7 @@
 //Program to demonstrate final class
 package daysix.usingfinal;
 
-final class FinalClass {
+class FinalClass {
 	void show() {
 		System.out.println("Final class cannot be inherited");
 	}

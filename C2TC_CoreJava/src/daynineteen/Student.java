@@ -1,5 +1,5 @@
 //Program to demonstrate Student Entity Class
-package com.tnsif.daynineteen;
+package daynineteen;
 
 public class Student {
 	private int rollNo;

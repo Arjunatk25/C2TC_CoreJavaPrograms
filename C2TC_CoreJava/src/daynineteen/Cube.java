@@ -1,6 +1,6 @@
 //Program to demonstrate Functional Interface
 
-package com.tnsif.daynineteen;
+package daynineteen;
 
 @FunctionalInterface
 interface Cube {

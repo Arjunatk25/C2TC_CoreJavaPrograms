@@ -1,5 +1,5 @@
 //Program to demonstrate creating a child Thread class - extending Thread class
-package com.tnsif.daythirteen;
+package daythirteen;
 
 //Thread class
 public class ChildThread extends Thread {

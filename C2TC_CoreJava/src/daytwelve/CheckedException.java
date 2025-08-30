@@ -1,5 +1,5 @@
 //Program to use checked Exception
-package com.tnsif.daytwelve;
+package daytwelve;
 
 import java.io.BufferedReader;
 import java.io.IOException;

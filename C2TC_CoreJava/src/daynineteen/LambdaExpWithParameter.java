@@ -1,5 +1,5 @@
 //Program to demonstrate Lambda expression with parameters
-package com.tnsif.daynineteen;
+package daynineteen;
 
 import java.util.function.Function;
 import java.util.stream.Stream;

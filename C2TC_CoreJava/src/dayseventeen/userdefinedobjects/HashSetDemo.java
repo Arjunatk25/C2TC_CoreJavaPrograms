@@ -1,5 +1,5 @@
 //Program to demonstrate HashSet using user defined objects
-package com.tnsif.dayseventeen.userdefinedobjects;
+package dayseventeen.userdefinedobjects;
 
 import java.util.HashSet;
 import java.util.List;

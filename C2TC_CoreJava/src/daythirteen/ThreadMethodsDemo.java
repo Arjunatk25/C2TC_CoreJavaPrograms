@@ -1,5 +1,5 @@
 //Program to demonstrate Thread class methods
-package com.tnsif.daythirteen;
+package daythirteen;
 
 public class ThreadMethodsDemo {
 

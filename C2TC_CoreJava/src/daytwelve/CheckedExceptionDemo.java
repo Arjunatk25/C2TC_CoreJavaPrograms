@@ -1,5 +1,5 @@
 //Program to demonstrate Checked Exception
-package com.tnsif.daytwelve;
+package daytwelve;
 
 import java.io.IOException;
 

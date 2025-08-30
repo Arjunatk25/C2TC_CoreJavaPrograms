@@ -1,6 +1,6 @@
 //Program to demonstrate unchecked exception
 
-package com.tnsif.daytwelve;
+package daytwelve;
 
 public class UncheckedException {
 	public static void main(String[] args) {

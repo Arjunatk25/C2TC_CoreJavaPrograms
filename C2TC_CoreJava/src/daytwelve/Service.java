@@ -1,5 +1,5 @@
 //Program to define service class
-package com.tnsif.daytwelve;
+package daytwelve;
 
 public class Service   {
 	

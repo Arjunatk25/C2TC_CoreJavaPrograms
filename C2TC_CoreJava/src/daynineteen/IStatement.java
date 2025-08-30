@@ -1,6 +1,6 @@
 //Program to demonstrate Functional Interface
 
-package com.tnsif.daynineteen;
+package daynineteen;
 
 @FunctionalInterface // interface is declared with only one abstract method
 interface IStatement {

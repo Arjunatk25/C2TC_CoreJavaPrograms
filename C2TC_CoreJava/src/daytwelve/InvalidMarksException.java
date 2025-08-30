@@ -1,5 +1,5 @@
 //Program to define User defined exception class
-package com.tnsif.daytwelve;
+package daytwelve;
 
 public class InvalidMarksException extends Exception{
 

@@ -1,5 +1,5 @@
 //Program to demonstrate Thread life cycle
-package com.tnsif.daythirteen;
+package daythirteen;
 
 public class ThreadLifeCycleDemo {
 

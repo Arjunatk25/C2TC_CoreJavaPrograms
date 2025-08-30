@@ -1,5 +1,5 @@
 //Program to implement student module
-package com.tnsif.daytwelve;
+package daytwelve;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

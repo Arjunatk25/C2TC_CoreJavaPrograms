@@ -1,5 +1,5 @@
 //executor class
-package com.tnsif.daythirteen;
+package daythirteen;
 
 public class RunnableDemo {
 	public static void main(String[] args) {

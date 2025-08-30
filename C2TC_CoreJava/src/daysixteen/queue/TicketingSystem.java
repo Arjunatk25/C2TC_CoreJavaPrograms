@@ -1,5 +1,5 @@
 //Program to demonstrate Ticketing System using Queue
-package com.tnsif.daysixteen.queue;
+package daysixteen.queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
